@@ -53,3 +53,26 @@
 </body>
 <footer></footer>
 </html>
+
+body{
+    font-family: Helvetica;
+    font-size: 22px;
+    color: seashell;
+    background-color: black;
+    opacity:0.9;
+    text-align: center;
+}
+.title{
+    height: 50px;
+    
+}
+.top-list{
+    text-decoration: underline;
+}
+.top-list li{
+    float: right;
+}
+
+.top-half{
+    background-image: url=("https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-4/img-mission-background.jpg");
+}
